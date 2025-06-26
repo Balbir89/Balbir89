@@ -1,6 +1,6 @@
 # Hi, I'm Balbir Singh
 
-**Finance & Data Analyst | Python • SQL • Excel • Power BI • openSAP (2024)**  
+**Finance & Data Analyst leveraging Python, SQL, Excel, Power BI | openSAP Certified (2024)**  
 I turn financial data into actionable insights through modeling, dashboards, and automation.
 
 ---
