@@ -1,39 +1,47 @@
-# 👋 Hi, I'm Balbir Singh
+# Hi, I'm Balbir Singh
 
-**Data Analyst | Finance & Economics Enthusiast**  
-🔍 Passionate about uncovering insights from economic data through analytics and visualization.
+**Finance & Data Analyst | Python • SQL • Excel • Power BI • openSAP (2024)**  
+I turn financial data into actionable insights through modeling, dashboards, and automation.
 
 ---
 
 ### Featured Project  
-**[Economic Crisis Analysis (2008)](https://github.com/Balbir89/economic-crisis-analysis)**  
-Exploring the macroeconomic impacts of two major crises using real-world data and Python-based analysis.
+**[Stock Market Sentiment Analysis](https://github.com/Balbir89/stock-market-sentiment-analysis)**  
+Analyzing stock price trends (AAPL, TSLA, AMZN, etc.) using Alpha Vantage API, time series visualization, and Python automation.
+
+---
+
+### Project Highlights  
+- Completed 18+ finance and analytics projects for corporate case studies and practical simulations  
+- Topics include: cost forecasting, investment impact analysis, SAP-aligned cost modeling, and financial dashboards  
+- View full list on my GitHub: [github.com/Balbir89](https://github.com/Balbir89)
 
 ---
 
 ### Skills & Tools  
-- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-- **Platforms:** Google Colab, Jupyter Notebooks  
-- **Data Tools:** SQL, Excel, Power BI  
-- **Other:** Data Cleaning, Trend Analysis, Time Series Forecasting
+- Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn  
+- Platforms: Google Colab, Jupyter Notebooks  
+- Tools: SQL, Excel, Power BI  
+- Other: Financial Modeling, Data Cleaning, Forecasting, openSAP (2024)
 
 ---
 
-### What I'm Up To  
-- Currently enhancing a project on economic crisis forecasting and recovery patterns  
-- Learning advanced data visualization and time-series modeling  
-- Open to collaborations in finance, investment research, or data storytelling  
-- Ask me about economic trends, data analysis, or portfolio analytics  
+### Current Focus  
+- Enhancing real-world pricing and sentiment dashboards  
+- Learning advanced time-series forecasting techniques  
+- Open to finance/investment collaborations and freelance analysis  
+- Ask me about data storytelling or financial analytics
 
 ---
 
-### 📫 Connect With Me  
-📧 Email: [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/balbir-finance-investment-berlin](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
-💻 GitHub: [github.com/Balbir89](https://github.com/Balbir89)  
+### Connect With Me  
+Email: [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
+LinkedIn: [linkedin.com/in/balbir-finance-investment-berlin](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
+GitHub: [github.com/Balbir89](https://github.com/Balbir89)
 
 ---
 
 😄 **Pronouns:** he/him  
 ⚡ **Fun Fact:** I enjoy turning complex economic data into compelling visual narratives!
+
 
