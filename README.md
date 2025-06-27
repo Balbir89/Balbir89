@@ -40,10 +40,12 @@ Analyzing stock price trends (AAPL, TSLA, AMZN, etc.) using Alpha Vantage API, t
 
 ---
 
-### 🤝 Connect With Me  
-📧 Email: [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/balbir-finance-investment-berlin](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
-💻 GitHub: [github.com/Balbir89](https://github.com/Balbir89)
+### Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-balbirbhatia.20@gmail.com-red?style=flat-square&logo=gmail)](mailto:balbirbhatia.20@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir_Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Balbir89-black?style=flat-square&logo=github)](https://github.com/Balbir89)
+
 
 ---
 
