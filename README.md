@@ -42,9 +42,9 @@ I turn raw financial data into actionable insights using automation, modeling, a
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Other**  
-📈 Forecasting  
-📊 Financial Modeling  
-🎓 openSAP Certified (2024)
+- Forecasting  
+- Financial Modeling  
+- openSAP Certified (2024)
 
 ---
 
@@ -55,7 +55,7 @@ I turn raw financial data into actionable insights using automation, modeling, a
 
 ---
 
-### 📬 Connect With Me  
+### Connect With Me  
 
 [![Email](https://img.shields.io/badge/Email-balbirbhatia.20@gmail.com-red?style=flat-square&logo=gmail)](mailto:balbirbhatia.20@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir_Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
