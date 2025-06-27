@@ -32,9 +32,8 @@ Experienced finance and data analyst skilled in transforming complex financial d
 
 ### Project Highlights  
 - Completed 18+ financial analytics projects across forecasting, investment analysis, and SAP-aligned modeling  
-- Created dashboards, cleaned datasets, and automated analysis workflows  
-- View all projects on [![GitHub Profile](https://img.shields.io/badge/GitHub-Balbir89-181717?style=flat-square&logo=github)](https://github.com/Balbir89)
-
+- Created dashboards, cleaned datasets, and automated analysis workflows
+  
 ---
 
 ### Skills & Tools  
@@ -69,9 +68,10 @@ Experienced finance and data analyst skilled in transforming complex financial d
 
 ---
 
-### Connect With Me  
+### Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-balbirbhatia.20@gmail.com-red?style=flat-square&logo=gmail)](mailto:balbirbhatia.20@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir_Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Balbir89-black?style=flat-square&logo=github)](https://github.com/Balbir89)
+[![Email](https://img.shields.io/badge/Email-balbirbhatia.20@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:balbirbhatia.20@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir_Singh-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Balbir89-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Balbir89)
+
 
