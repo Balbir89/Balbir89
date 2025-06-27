@@ -12,7 +12,7 @@ I turn raw financial data into actionable insights using automation, modeling, a
 ---
 
 ### Featured Project  
-🔍 **[Stock Market Sentiment Analysis](https://github.com/Balbir89/stock-market-sentiment-analysis)** – Predicting stock trends (AAPL, TSLA, AMZN) using news sentiment and Python.
+ **[Stock Market Sentiment Analysis](https://github.com/Balbir89/stock-market-sentiment-analysis)** – Predicting stock trends (AAPL, TSLA, AMZN) using news sentiment and Python.
 
 ---
 
@@ -23,7 +23,7 @@ I turn raw financial data into actionable insights using automation, modeling, a
 
 ---
 
-### 🛠️ Skills & Tools  
+### Skills & Tools  
 
 **Languages & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,15 +45,6 @@ I turn raw financial data into actionable insights using automation, modeling, a
 📈 Forecasting  
 📊 Financial Modeling  
 🎓 openSAP Certified (2024)
-
----
-
-
-### Skills & Tools  
-**Languages/Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-**Platforms:** Jupyter Notebooks, Google Colab  
-**Tools:** SQL, Excel, Power BI  
-**Other:** Forecasting, Financial Modeling, openSAP Certified (2024)
 
 ---
 
