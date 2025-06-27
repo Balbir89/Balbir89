@@ -1,18 +1,32 @@
-# Hi, I'm Balbir Singh
+# Hi, I'm Balbir Singh 
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Repo Stars](https://img.shields.io/github/stars/Balbir89/stock-market-sentiment-analysis?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/Balbir89/stock-market-sentiment-analysis)
-![Followers](https://img.shields.io/github/followers/Balbir89?label=Follow&style=social)
+**Finance & Data Analyst | Python, SQL, Power BI | openSAP Certified (2024)**
 
-**Finance & Data Analyst | Python • SQL • Power BI • Excel | openSAP Certified (2024)**  
-I turn raw financial data into actionable insights using automation, modeling, and storytelling.
+I turn financial data into actionable insights through modeling, dashboards, and automation.
+
 
 ---
 
-### Featured Project  
- **[Stock Market Sentiment Analysis](https://github.com/Balbir89/stock-market-sentiment-analysis)** – Predicting stock trends (AAPL, TSLA, AMZN) using news sentiment and Python.
+## Professional Summary
+Experienced finance and data analyst skilled in transforming complex financial data into actionable insights through advanced modeling, forecasting, and data visualization. Seeking roles in financial analysis, data analytics, and investment analysis.
+
+---
+
+## Featured Projects
+
+**Stock Market Sentiment Analysis**
+
+- Analyzed stock price trends using sentiment analysis of news headlines.
+
+- Built predictive models with Python, leveraging Alpha Vantage API and time series techniques.
+
+- Created automated visualizations for financial decision support.
+
+**Economic Crisis Analysis**:
+
+- Explored macroeconomic data relationships using statistical models.
+
+- Utilized Python libraries for forecasting and visualization to interpret economic trends.
 
 ---
 
