@@ -11,20 +11,20 @@ I turn financial data into actionable insights through modeling, dashboards, and
 
 ---
 
-### 🌟 Featured Project  
+### Featured Project  
 **[Stock Market Sentiment Analysis](https://github.com/Balbir89/stock-market-sentiment-analysis)**  
 Analyzing stock price trends (AAPL, TSLA, AMZN, etc.) using Alpha Vantage API, time series visualization, and Python automation.
 
 ---
 
-### 🚀 Project Highlights  
+### Project Highlights  
 - Completed 18+ finance and analytics projects for corporate case studies and practical simulations  
 - Topics include: cost forecasting, investment impact analysis, SAP-aligned cost modeling, and financial dashboards  
 - View full list on my GitHub: [![GitHub Profile](https://img.shields.io/badge/GitHub-Balbir89-181717?style=flat-square&logo=github)](https://github.com/Balbir89)
 
 ---
 
-### 🛠️ Skills & Tools  
+### Skills & Tools  
 - Languages & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn  
 - Platforms: Google Colab, Jupyter Notebooks  
 - Tools: SQL, Excel, Power BI  
@@ -32,7 +32,7 @@ Analyzing stock price trends (AAPL, TSLA, AMZN, etc.) using Alpha Vantage API, t
 
 ---
 
-### 🎯 Current Focus  
+### Current Focus  
 - Enhancing real-world pricing and sentiment dashboards  
 - Learning advanced time-series forecasting techniques  
 - Open to finance/investment collaborations and freelance analysis  
