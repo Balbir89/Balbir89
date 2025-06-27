@@ -75,10 +75,3 @@ Experienced finance and data analyst skilled in transforming complex financial d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balbir_Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Balbir89-black?style=flat-square&logo=github)](https://github.com/Balbir89)
 
----
-
-### Personal Insights  
-
-**Pronouns:** he/him  
-**Fun Fact:** Learning & Working with transforming complex economic data into clear, compelling visual stories.
-
