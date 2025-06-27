@@ -23,6 +23,32 @@ I turn raw financial data into actionable insights using automation, modeling, a
 
 ---
 
+### 🛠️ Skills & Tools  
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat)
+
+**Platforms**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+
+**Tools**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Other**  
+📈 Forecasting  
+📊 Financial Modeling  
+🎓 openSAP Certified (2024)
+
+---
+
+
 ### Skills & Tools  
 **Languages/Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 **Platforms:** Jupyter Notebooks, Google Colab  
