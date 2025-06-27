@@ -63,7 +63,8 @@ I turn raw financial data into actionable insights using automation, modeling, a
 
 ---
 
-😄 **Pronouns:** he/him  
-⚡ **Fun Fact:** I love turning economic complexity into visual clarity.
+### Personal Insights  
 
+**Pronouns:** he/him  
+**Fun Fact:** Learning & Working with transforming complex economic data into clear, compelling visual stories.
 
