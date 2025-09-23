@@ -1,70 +1,43 @@
-# Hi, I'm Balbir Singh 
+# Hi, I'm Balbir Sing & this is my Data & Finance Analytics Portfolio
 
-**Finance & Data Analyst | Python, SQL, Power BI | openSAP Certified (2024)**
-
-I turn financial data into actionable insights through modeling, dashboards, and automation.
-
+Hi, I'm Balbir! I’m a Data & Finance Analyst with an M.Sc. in Finance & Investment and 2+ years of freelance experience delivering actionable insights for startups, SMEs, and corporate teams. I specialize in turning raw data into clear, actionable insights that drive business growth and reduce risk.
 
 ---
 
-## Professional Summary
-Experienced finance and data analyst skilled in transforming complex financial data into actionable insights through advanced modeling, forecasting, and data visualization. Seeking roles in financial analysis, data analytics, and investment analysis.
+## How I Add Value for you
+
+- **Interactive Dashboards:** Build dashboards (Power BI, Tableau, Excel) that make data easy to understand and act on.  
+- **Financial Automation:** Automate reporting & forecasting to save time and boost accuracy.  
+- **Business & Marketing Analytics:** Analyze CAC, ROAS, churn, retention, and other KPIs to support growth decisions.  
+- **Statistical & Predictive Modeling:** Deliver ARIMA, regression, and sentiment analysis for forecasting and risk assessment.  
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-**Stock Market Sentiment Analysis**
-
-- Analyzed stock price trends using sentiment analysis of news headlines.
-
-- Built predictive models with Python, leveraging Alpha Vantage API and time series techniques.
-
-- Created automated visualizations for financial decision support.
-
-**Economic Crisis Analysis**:
-
-- Explored macroeconomic data relationships using statistical models.
-
-- Utilized Python libraries for forecasting and visualization to interpret economic trends.
+**Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL  
+**Visualization:** Power BI, Tableau, Excel (advanced)  
+**Data Handling:** API integration, Data Cleaning, Time Series Analysis  
+**Finance Tools:** SAP S/4HANA Finance, Financial Modeling  
 
 ---
 
-### Project Highlights  
-- Completed 18+ financial analytics projects across forecasting, investment analysis, and SAP-aligned modeling  
-- Created dashboards, cleaned datasets, and automated analysis workflows
-  
----
+## Portfolio Highlights
 
-### Skills & Tools  
+- **Solar Grid Impact Analyzer:** Forecasting model with >95% accuracy + dashboard for renewable energy load balancing.  
+- **HelloFresh Marketing Analytics:** ROI & CAC analysis with A/B testing simulations and forecasting dashboards.  
+- **Economic Crisis Analysis:** 20+ years of macroeconomic data analyzed with ARIMA forecasting for crisis detection.  
 
-**Languages & Libraries**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat)
-
-**Platforms**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-
-**Tools**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-**Other**  
-- Forecasting  
-- Financial Modeling  
-- openSAP Certified (2024)
+> GitHub Portfolio: [github.com/Balbir89](https://github.com/Balbir89)
 
 ---
 
-### Current Focus  
-- Building pricing & sentiment dashboards  
-- Learning advanced time-series forecasting  
-- Exploring finance collaboration & freelance projects
+## What I Bring to the Table
+
+I combine finance expertise with data analytics to not just process numbers, but tell the story behind them. My goal is to deliver **clear, actionable insights** that help businesses save money, reduce risk, and grow.  
+
+If you need data-driven dashboards, financial forecasting, or business intelligence solutions, let’s connect!
+
 
 ---
 
