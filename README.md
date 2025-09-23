@@ -1,6 +1,6 @@
 # Hi, I'm Balbir Sing & this is my Data & Finance Analytics Portfolio
 
-Hi, I'm Balbir! I’m a Data & Finance Analyst with an M.Sc. in Finance & Investment and 2+ years of freelance experience delivering actionable insights for startups, SMEs, and corporate teams. I specialize in turning raw data into clear, actionable insights that drive business growth and reduce risk.
+Hi, I'm Balbir! I’m a Data & Finance Analyst with an M.Sc. in Finance & Investment and 3+ years of freelance experience delivering actionable insights for startups, SMEs, and corporate teams. I specialize in turning raw data into clear, actionable insights that drive business growth and reduce risk.
 
 ---
 
