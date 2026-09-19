@@ -27,7 +27,7 @@ I am a Data & Finance Analyst based in Hamburg, with an M.Sc. in Finance & Inves
 ## Featured Projects
 
 ### 1. Solar Grid Impact Analyzer  
-- Forecasting model with **>95% accuracy**  
+- Solar generation modeling and battery dispatch analysis using simulated data  
 - Interactive dashboard for renewable energy load balancing  
 
 ### 2. HelloFresh Marketing Analytics  
@@ -36,7 +36,7 @@ I am a Data & Finance Analyst based in Hamburg, with an M.Sc. in Finance & Inves
 
 ### 3. Economic Crisis Analysis  
 - Analysis of 20+ years of macroeconomic data  
-- ARIMA forecasting for early crisis detection  
+- Macroeconomic trend analysis and exploratory ARIMA forecasting
 
 > Check out my GitHub portfolio: [github.com/Balbir89](https://github.com/Balbir89)
 
