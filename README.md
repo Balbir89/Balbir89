@@ -52,5 +52,5 @@ Let’s connect if you need **data-driven dashboards, financial forecasting, or 
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/balbir89)  
-- [Email](mailto:your-email@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/balbir89](https://www.linkedin.com/in/balbir-finance-investment-berlin/)  
+- [Email](mailto:balbirbhatia.20@gmail.com)
