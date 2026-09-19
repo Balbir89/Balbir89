@@ -1,7 +1,8 @@
 # Hi, I'm Balbir Singh  
 ### Data & Finance Analyst | Python, SQL, Power BI, Tableau  
 
-I’m a Data & Finance Analyst with an M.Sc. in Finance & Investment and 2+ years of freelance experience delivering actionable insights for startups, SMEs, and corporate teams. I specialize in transforming raw data into decision-ready insights that drive growth, reduce risk, and save costs.
+I am a Data & Finance Analyst based in Hamburg, with an M.Sc. in Finance & Investment and a background in financial advisory and hospitality operations. I use Python, SQL, Power BI and Excel for data cleaning, analysis, reporting and visualization. My independent portfolio projects explore financial, marketing and energy data, including forecasting and business performance analysis. I am seeking Data Analyst, Reporting Analyst and Junior Financial Analyst opportunities where I can combine my analytical skills with practical business experience.
+
 
 ---
 
